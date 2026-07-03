@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:targetCellWidth="4"
+    android:targetCellHeight="2"
+    android:minWidth="250dp"
+    android:minHeight="110dp"
+    android:resizeMode="horizontal|vertical"
+    android:previewLayout="@layout/widget_money_preview"
+    android:initialLayout="@layout/widget_money_preview"
+    android:description="@string/widget_money_description"
+    android:updatePeriodMillis="1800000"
+    android:widgetCategory="home_screen" />

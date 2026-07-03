@@ -1,0 +1,25 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+**/build/
+*.apk
+*.aab
+
+# Signing
+*.jks
+*.keystore
+keystore.properties
+
+# Local Claude Code settings (contains local machine paths)
+.claude/settings.local.json
+
+# Kotlin/Gradle caches
+.kotlin/
+.gradle/
+app/release/

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Valurex</string>
+    <string name="widget_money_description">Track your total money and budget progress.</string>
+    <string name="widget_wishlist_description">Quick access to your most desired items.</string>
+</resources>
